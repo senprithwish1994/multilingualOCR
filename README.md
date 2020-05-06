@@ -1,9 +1,11 @@
 # multilingualOCR
 TIll now Only segmentation part is discussed
 
----This Project has been developed my Prithwish Sen and Anindita Das---
-     ---- Mtech IIIT G -----
 
+
+
+---This Project has been developed my Prithwish Sen and Anindita Das---
+     
 
 
 
