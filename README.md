@@ -1,10 +1,6 @@
 # multilingualOCR
 TIll now Only segmentation part is discussed
 
-
-
-
---- This  project has been developed by Prithwish Sen and Anindita Das---
      
 
 
