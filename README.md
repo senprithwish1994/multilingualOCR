@@ -4,7 +4,7 @@ TIll now Only segmentation part is discussed
 
 
 
----This Project has been developed by Prithwish Sen and Anindita Das---
+---This Project has been developed by Prithwish Sen, Anindita Das and Tapas Mishra---
      
 
 
